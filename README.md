@@ -19,11 +19,11 @@ To batch together PSP22/ERC20 or equivalent tokens.
 
 token_address is the contract address of the PSP2220 contract. The other values are same as above.
 
-##Contact Information
+## Contact Information
 
 rafat.hsn@gmail.com
 
-##Name of Bounty : Front-end, tools, or utility service
+## Name of Bounty : Front-end, tools, or utility service
 
 ## Project Information
 
