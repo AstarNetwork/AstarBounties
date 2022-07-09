@@ -1,4 +1,4 @@
-#Disperse DAPP Build Using Ink! and React
+# Disperse DAPP Build Using Ink! and React
 
 Disperse DAPP is a batching protocol for both native currency and PSP22/ERC20 or equivalent tokens that can help reduce gas cost and reduces time/complexity for multiple transfers by batching them in a single block. The Dapp contract is written completely in ink! and makes use of OpenBrush's PSP22 protocol. The front-end is programmed in react/javascript. Polkadot.js wallet is the minimum requirement to use this app. Rust toolchain and substrate-contracts-node are a must for the local backend testing and development. Node.js and yarn will be need for the local deployment of the frontend. 
 
