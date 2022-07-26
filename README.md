@@ -1,8 +1,10 @@
 # AstarBounties
 Astar bounties during hackathons.
 
-Current running Hackathons with Astar
-- amsterDOT
+Hackathons with Astar
+- Data Native
+- <s>amsterDOT</s>
+- <s>NA Hackathon Polkadot</s>
 
 
 ## AmsterDOT
