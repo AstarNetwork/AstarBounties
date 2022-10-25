@@ -34,6 +34,6 @@ Open Challenge: cross-chain dApps using XCM (Cross-consensus Messaging) - $5000
 ##### Github repo
 https://github.com/dudo50/astarot
 ##### Heroku deploy
-TBA
+https://astarot.herokuapp.com/
 ##### Overview video
 TBA
