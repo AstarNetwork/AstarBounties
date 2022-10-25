@@ -22,7 +22,8 @@ A⭐️ot's main advantages can be sumarized into following points:
 Instead of filling lengthy and confusing polkadotXCM pallet calls Astarot fills and constructs them for you. All this without requiring as many details as you would have to fill in original call.
 
 In the picture below on the left is the amount of data Astarot requires & on right is the amount of data you would have to fill to create call necessary for XCM transfer. This is just one example from all 3 screens. Feel free to try others yourself. You can click on the image to see it in full resolution.
-![imgonline-com-ua-twotoone-7qfy8wEfD20vsc6o](https://user-images.githubusercontent.com/55763425/197861424-27eb7eba-62ac-41ec-b00c-bff61912214a.jpg)
+![imgonline-com-ua-twotoone-5Ietca8rh9TW2Z5](https://user-images.githubusercontent.com/55763425/197884681-cff04bd1-cc38-479e-98e5-bbbc6c149c5d.jpg)
+
 
 #### Contact
 Linkedin - https://www.linkedin.com/in/dudo50/
