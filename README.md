@@ -2,7 +2,10 @@
 Astar bounties during hackathons.
 
 Hackathons with Astar
-- Data Native
+- Tokyo web3 Hackathon
+- Polkadot Hackathon Latam
+- <s>Cal Hacks 9.0</s>
+- <s>Data Native</s>
 - <s>amsterDOT</s>
 - <s>NA Hackathon Polkadot</s>
 
