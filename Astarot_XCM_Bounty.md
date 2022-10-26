@@ -49,4 +49,4 @@ https://github.com/dudo50/astarot
 ##### Heroku deploy
 https://astarot.herokuapp.com/
 ##### Overview video
-TBA
+https://youtu.be/O396SmqQjMc
