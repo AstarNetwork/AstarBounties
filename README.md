@@ -2,7 +2,15 @@
 
 ## **Project description**
 
-D
+Ink Explorer is an application that provides Ink contracts related information on Substrate based blockchains. It subscribes to blockchain and Ink modules events and store the information on its own PostgreSQL database. The backend exposes an API that can interact with the DB and run fast queries to get specific information in a short time.
+
+The idea of this project is to have fast way to start a node that can be used as an explorer getting live and old data for specific contracts or addresses.
+
+This project serves useful information that is not available anywhere else. Since the back end is in charge of obtaining information related to the balances, transactions and more, of the contracts that use Ink modules. Ink Explorer uses polkadot.js to communicate with the Substrate / Polkadot networks. It is safe to say that this project is a must.
+
+Blockcoders is a team that is always contributing to blockchain projects to help the growth of the ecosystem.
+
+The new feature added to this project is a way to deploy WebAssembly smart contracts on any Substrate-based blockchain. This feature is very useful for developers who want to deploy their smart contracts on any Substrate-based blockchain. This feature is very useful for developers who want to deploy their smart contracts on any Substrate-based blockchain. 
 
 ### **Why Polkadot?**
 
@@ -14,6 +22,7 @@ The network supports the building of dApps with EVM and WASM smart contracts and
 
 ### References
 
+https://github.com/w3f/Grants-Program/blob/master/applications/ink-explorer.md
 
 This project was originally supported by the Web3 Foundation and the Polkadot team. The project was developed by the BlockCoders team.
 As we continue to develop the project, we will continue to support the Astar Network.
