@@ -47,6 +47,8 @@ WebAssemply dApps - https://github.com/AstarNetwork/AstarBounties/issues/15
 
 ## Provide a way to access the project for judging and testing by including all links
 
+**PR with new feature:** https://github.com/blockcoders/ink-substrate-explorer-frontend/pull/11/files
+
 **Github - Frontend:** https://github.com/blockcoders/ink-substrate-explorer-frontend
 
 **Github - Backend:** https://github.com/blockcoders/ink-substrate-explorer-api
